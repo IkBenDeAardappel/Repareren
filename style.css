@@ -21,7 +21,7 @@ html, body {
 
 .main-nav {
   width: 800px;
-  margin-left: 200px;
+  margin-left: 300px;
   position: absolute;
   bottom: -25px;
 }
@@ -44,8 +44,8 @@ html, body {
     }
 
 .page-content {
-   margin-left: 200px;
-   margin-right: 200px;
+   margin-left: 300px;
+   margin-right: 300px;
 }
 
 
@@ -72,7 +72,7 @@ h2 {
 
 .page-nav {
 	position:absolute;
-	 left: 10px;
+	 left: 50px;
 }
 
   .page-nav ul {
