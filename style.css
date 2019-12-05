@@ -23,7 +23,7 @@ html, body {
   width: 800px;
   margin-left: 200px;
   position: absolute;
-  bottom: 0px;
+  bottom: -25px;
 }
 
   .main-nav a {
@@ -99,4 +99,9 @@ h1:after {
     content:' ';
     display:block;
     border:2px solid grey;
+}
+
+img {
+	float: right;
+	margin-right: 10px;
 }
